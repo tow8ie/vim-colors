@@ -63,7 +63,7 @@ hi PreProc 		guifg=#ef7760   guibg=bg        gui=none
 hi Keyword		guifg=#8ac6f2   guibg=bg        gui=none
 hi Special		guifg=#b9e19d   guibg=bg        gui=none
 hi Statement 	        guifg=#68CEE8   guibg=bg        gui=none
-hi String 		guifg=#89e14b   guibg=bg        gui=italic
+hi String 		guifg=#89e14b   guibg=bg        gui=none
 hi Todo 		guifg=#ADED80   guibg=bg        gui=bold
 hi Type 		guifg=#5ba0eb   guibg=bg        gui=none
 hi Underlined 	        guifg=#8ac6f2   guibg=bg        gui=underline
